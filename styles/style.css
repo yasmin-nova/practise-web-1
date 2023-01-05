@@ -106,8 +106,9 @@ main {
   height: auto;
   width: 780px;
 }
-.blog-1 {
-  background: rgba(79, 157, 166, 0.1);
+.blog-1,
+.blog-2,
+.blog-3 {
   border-radius: 5px;
   text-align: left;
   margin-right: 15px;
@@ -119,32 +120,15 @@ main {
   font-size: 16px;
   word-break: normal;
 }
+.blog-1 {
+  background: rgba(79, 157, 166, 0.1);
+}
 .blog-2 {
   background: rgba(255, 89, 89, 0.1);
-  border-radius: 5px;
-  text-align: left;
-  margin-right: 15px;
-  padding-left: 15px;
-  padding-bottom: 14px;
-  padding-right: 15px;
-  font-size: 16px;
-  font-family: "Poppins";
-  font-style: normal;
-  word-break: normal;
 }
 
 .blog-3 {
   background: #fff4d6;
-  border-radius: 5px;
-  text-align: left;
-  padding-left: 15px;
-  margin-right: 20px;
-  padding-bottom: 14px;
-  padding-right: 15px;
-  font-size: 16px;
-  font-family: "Poppins";
-  font-style: normal;
-  word-break: normal;
 }
 .div-title {
   font-weight: 600;
