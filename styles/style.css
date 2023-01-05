@@ -103,7 +103,7 @@ main {
 .section-div {
   display: flex;
   justify-content: space-between;
-  height: 300px;
+  height: auto;
   width: 780px;
 }
 .blog-1 {
@@ -112,7 +112,7 @@ main {
   text-align: left;
   margin-right: 15px;
   padding-left: 15px;
-  padding-bottom: 54px;
+  padding-bottom: 14px;
   padding-right: 15px;
   font-family: "Poppins";
   font-style: normal;
@@ -125,7 +125,7 @@ main {
   text-align: left;
   margin-right: 15px;
   padding-left: 15px;
-  padding-bottom: 54px;
+  padding-bottom: 14px;
   padding-right: 15px;
   font-size: 16px;
   font-family: "Poppins";
@@ -139,7 +139,7 @@ main {
   text-align: left;
   padding-left: 15px;
   margin-right: 20px;
-  padding-bottom: 54px;
+  padding-bottom: 14px;
   padding-right: 15px;
   font-size: 16px;
   font-family: "Poppins";
@@ -154,13 +154,13 @@ main {
   font-style: normal;
   text-align: left;
   padding-bottom: 30px;
-  padding-top: 16px;
+  padding-top: 15px;
   white-space: nowrap;
 }
 .section-div img {
   width: 40px;
   height: 40px;
-  padding-top: 60px;
+  padding-top: 40px;
   padding-left: 0.5px;
   left: 50px;
 }
