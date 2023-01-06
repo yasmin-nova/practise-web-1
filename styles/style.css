@@ -157,14 +157,15 @@ main {
 }
 .img-1,
 .img-2 {
-  height: 500px;
-  width: 500px;
+  height: 400px;
+  width: 550px;
 }
 .img-1 {
   padding-left: 50px;
+  padding-top: 65px;
 }
 .img-2 {
-  padding-top: 20px;
+  padding-top: 65px;
   padding-left: 10px;
   padding-right: 80px;
   justify-self: left;
