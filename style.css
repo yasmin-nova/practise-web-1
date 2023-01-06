@@ -8,7 +8,7 @@ main {
 
 .header {
   background: linear-gradient(360deg, #1d1c1c 0%, hwb(0 17% 82% / 0) 100%),
-    url(/images/donation0.jpg);
+    url(images/donation0.jpg);
 
   background-repeat: no-repeat;
   background-size: cover;
